@@ -1,4 +1,4 @@
-# 👋 Al-Nadhari Faroq  
+# 👋 Faroq Al-Nadhari
 
 ## 👨‍💻 **About Me**  
 Jeune diplômé en Génie Informatique, passionné par le développement **full-stack** avec une expertise en **Java** et **Angular**.  
