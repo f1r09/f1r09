@@ -8,8 +8,6 @@ Here is your profile formatted in **Markdown** for a `README.md` file, complete 
 
 ---
 
-# 🚀 **About Me**
-
 ## 🌟 **Personal Skills**
 - Serious | Curious | Precise | Organized | Team Player | Punctual | Autonomous  
 
@@ -62,6 +60,8 @@ Here is your profile formatted in **Markdown** for a `README.md` file, complete 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="MongoDB" width="40" height="40"/>
+          
 </p>
 
 ## 🤖 **Artificial Intelligence**
@@ -74,17 +74,12 @@ Here is your profile formatted in **Markdown** for a `README.md` file, complete 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" width="40" height="40" />
+          
 </p>
 
 ## 🌍 **Languages**
 - **Arabic** (Native) | **French** (Advanced) | **English** (Advanced) | **Japanese** (Beginner)
-
----
-
-Copy this content into a `README.md` file, and you will have a beautifully styled and professional profile!
-
-
 
 
 <!--
