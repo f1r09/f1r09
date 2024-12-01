@@ -5,7 +5,7 @@ Jeune diplômé en Génie Informatique, passionné par le développement **full-
 Curieux, autonome, et organisé, je m’engage à concevoir des solutions innovantes et efficaces dans mes projets.
 
 ## 🚀 Languages and Tools
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 40px;">
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
