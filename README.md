@@ -4,9 +4,6 @@
 I am a passionate and motivated Full-Stack Developer with a strong foundation in software engineering and a focus on Java and Angular. I hold a Master's degree in Computer Engineering from Université Grenoble Alpes, where I honed my skills in programming, software development, and advanced technologies.
 
 I am deeply passionate about creating efficient, scalable, and user-friendly software solutions. My experience includes developing full-stack applications, designing databases, and working on machine learning projects. I thrive in collaborative environments and enjoy solving complex challenges using modern tools and frameworks.
-Here is your profile formatted in **Markdown** for a `README.md` file, complete with `devicon` icons where applicable:
-
----
 
 ## 🌟 **Personal Skills**
 - Serious | Curious | Precise | Organized | Team Player | Punctual | Autonomous  
