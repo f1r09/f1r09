@@ -1,0 +1,29 @@
+name: Update GitHub Profile
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Runs every 6 hours
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README with a random quote
+        run: |
+          QUOTE=$(curl -s https://api.quotable.io/random | jq -r '.content + " — " + .author')
+          echo "📝 **Quote of the Moment:**" > README.md
+          echo "> \"$QUOTE\"" >> README.md
+          echo "" >> README.md
+          echo "![GitHub Stats](https://github-readme-stats.vercel.app/api?username=${{ github.actor }}&show_icons=true&theme=radical)" >> README.md
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Updated README with a new quote 🚀" || exit 0
+          git push
