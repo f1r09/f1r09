@@ -93,3 +93,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/f1r09/f1r09/output/snake.svg" alt="Snake animation" />
+
